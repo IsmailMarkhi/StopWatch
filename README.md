@@ -1,5 +1,3 @@
-# StopWatch
-Real-time stopwatch with JS &amp; Tailwind
 # ⏱️ Stopwatch Web App
 
 A sleek, responsive, and functional **Stopwatch** built with **HTML**, **Tailwind CSS**, and **Vanilla JavaScript**.  
