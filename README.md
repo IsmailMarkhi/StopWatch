@@ -4,7 +4,7 @@ A sleek, responsive, and functional **Stopwatch** built with **HTML**, **Tailwin
 This stopwatch features **Start**, **Pause**, **Resume**, and **Reset** functionality with millisecond accuracy. Ideal for learning time-based JavaScript logic and responsive UI styling.
 
 <p align="center">
-  <img src="screenshot.png" alt="Stopwatch UI Preview" width="600">
+  <img src="StopWatch.png" alt="Stopwatch UI Preview" width="600">
 </p>
 
 ---
